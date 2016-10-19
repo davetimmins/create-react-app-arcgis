@@ -1,4 +1,4 @@
-This project takes the base creat-react-app and adds the ArcGIS JS API v4.1 (and redux and react-bootstrap).
+This project takes the base create-react-app template and adds the ArcGIS JS API v4.1 (and redux and react-bootstrap).
 
 Below is the standard create-react-app readme
 
