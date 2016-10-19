@@ -1,5 +1,13 @@
 This project takes the base create-react-app template and adds the ArcGIS JS API v4.1 (and redux and react-bootstrap).
 
+The webpack config was deciphered from looking at 
+
+https://github.com/lobsteropteryx/esri-webpack-typescript and
+https://github.com/Robert-W/esri-redux
+
+so thanks to those guys for doing the hard work
+
+
 Below is the standard create-react-app readme
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
