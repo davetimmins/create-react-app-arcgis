@@ -1,3 +1,7 @@
+This project takes the base creat-react-app and adds the ArcGIS JS API v4.1 (and redux and react-bootstrap).
+
+Below is the standard create-react-app readme
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.  
