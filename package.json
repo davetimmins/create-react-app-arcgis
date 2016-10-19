@@ -2,7 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://isovist.co.nz/test-react",
+  "homepage": "http://davetimmins.com/create-react-app-arcgis/",
   "devDependencies": {
     "autoprefixer": "6.4.1",
     "babel-core": "6.14.0",
